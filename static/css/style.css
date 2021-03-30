@@ -1,0 +1,12 @@
+html,
+body,
+#map-id {
+  height: 75%;
+  padding: 10px;
+  margin: 10px;
+}
+#newPlot{
+    height: 25%;
+    padding:left 1px;
+    padding: right 1px;
+}
